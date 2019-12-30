@@ -1,0 +1,25 @@
+﻿  main.cpp
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(184): warning C4018: '<': signed/unsigned 不相符
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(248): warning C4018: '<': signed/unsigned 不相符
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(571): warning C4018: '<': signed/unsigned 不相符
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(575): warning C4018: '<': signed/unsigned 不相符
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(589): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(590): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(594): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(595): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(600): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(716): warning C4018: '<': signed/unsigned 不相符
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(725): warning C4018: '>': signed/unsigned 不相符
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(764): warning C4018: '<': signed/unsigned 不相符
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(773): warning C4018: '>': signed/unsigned 不相符
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(812): warning C4018: '<': signed/unsigned 不相符
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(821): warning C4018: '>': signed/unsigned 不相符
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(871): warning C4018: '<': signed/unsigned 不相符
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(880): warning C4018: '>': signed/unsigned 不相符
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(948): warning C4018: '<': signed/unsigned 不相符
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(1141): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(1141): warning C4018: '<': signed/unsigned 不相符
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(1486): warning C4018: '<': signed/unsigned 不相符
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(317): warning C4101: 'chtr_num': 未參考的區域變數
+c:\users\jonathanhuang\downloads\githubcode\rpggame\rpggame\rpggame\main.cpp(353): warning C4101: 'path': 未參考的區域變數
+  RPGGame.vcxproj -> C:\Users\JonathanHuang\Downloads\GitHubCode\RPGGame\RPGGame\Debug\RPGGame.exe
