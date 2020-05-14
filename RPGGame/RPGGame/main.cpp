@@ -452,56 +452,6 @@ int main() {
 		cout << "Path does not exist." << endl;
 	}
 
-	/*
-		for (int i = 0; i < player.size(); i++) {
-			cout << "角色列表 : " << player[i] << endl;
-		}*/
-		//ofstream ffout("C:\\gameDataFolder\\nouse.txt");
-
-		//cout << "請選擇創建角色(create),刪除角色(delete),選擇角色(choose)或離開(exit) : ";
-		//cin >> command_chtr;
-
-		//while (1) {
-
-		//	if (command_chtr == "create") {
-		//		cout << "請輸入角色名稱 : ";
-		//		cin >> chtr_name;
-		//		//cout << name_count;			
-		//		if (player.size() >= 3) {
-		//			cout << "You have already created over the max account number, please choose to start or delete : ";
-		//			cin >> command_chtr;
-		//		}
-		//		if (player.size() < 3)
-		//			player.push_back(chtr_name);
-		//		for (int i = 0; i < player.size(); i++) {
-		//			cout << "角色列表 : " << player[i] << endl;
-		//			ffout << player[i] << endl;
-		//		}
-		//		//	fout.close();
-
-		//	}
-		//	if (command_chtr == "choose") {
-		//		//player.push_back(chtr_name);
-		//		cout << "choose your wondering charactor : ";
-		//		cin >> chtr_num;
-		//		cout << "Now you're playing with " << player[chtr_num] << "!" << endl;
-		//		break;
-		//	}
-		//	if (command_chtr == "delete") {
-		//		cout << "choose the wondering charactor you want to delete : ";
-		//		cin >> chtr_num;
-		//		player.erase((player.begin(), player.begin() + chtr_num));
-		//		for (int i = 0; i < player.size(); i++) {
-		//			cout << "角色列表 : " << player[i] << endl;
-		//			ffout << player[i] << endl;
-		//		}
-		//	}
-		//	if (command_chtr == "exit")
-		//		return 0;
-		//	cout << "請選擇創建角色(create),刪除角色(delete),選擇角色(choose)或離開(exit) : ";
-		//	cin >> command_chtr;
-		//}
-
 	worldMap worldMap;
 	map map;
 
